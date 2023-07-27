@@ -1,0 +1,178 @@
+[
+	{
+		"name": "New Market Auckland",
+		"category": "City",
+		"city": "Auckland",
+		"state": "New Zealand",
+		"id": 1001,
+		"isFeatured": true,
+		"isFavorite": true,
+		"park": "Waipu",
+		"coordinates": {
+			"longitude": 174.778011,
+			"latitude": -36.867653
+		},
+		"description": "Newmarket is an upscale retail district with designer fashion boutiques and shoe stores along Nuffield Street and Broadway and at stylish Westfield Newmarket mall. High-end brunch spots, bistros and tapas bars surround Nuffield Lane, along with trendy independent galleries showcasing Kiwi artists and designers. Neighbouring Newmarket Park has rolling hills and Maori-inspired carved boulders",
+		"imageName": "NewMarketAuckland"
+	},
+    {
+        "name": "Brynderwyns Scenic Lookout",
+        "category": "Mountains",
+        "city": "Waipu",
+        "state": "New Zealand",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Waipu",
+        "coordinates": {
+            "longitude": 174.435598,
+            "latitude": -36.122813
+        },
+        "description": "Brynderwyns Scenic Lookout is a scenic viewpoint in Auckland Region. Brynderwyns Scenic Lookout is situated nearby to the peaks Pilbrow Hill and Bunker Hill.",
+        "imageName": "BrynderwynsScenicLookout"
+    },
+    {
+        "name": "Russell",
+        "category": "Island",
+        "city": "Paihia",
+        "state": "New Zealand",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Russell Northland",
+        "coordinates": {
+            "longitude": 174.121523,
+            "latitude": -35.260880
+        },
+        "description": "Russell, sometimes referred to as Kororāreka, is a town in the Bay of Islands, in New Zealand's far north. It was the first permanent European settlement and seaport in New Zealand. In January 2023, the New Zealand Geographic Board Ngā Pau Taunaha o Aotearoa proposed that the town's name be officially changed back to Kororāreka, its original Māori name.",
+        "imageName": "Russell"
+    },
+    {
+        "name": "Bay Of Islands",
+        "category": "Islands",
+        "city": "Paihia",
+        "state": "New Zealand",
+        "id": 1004,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Bay in New Zealand",
+        "coordinates": {
+            "longitude": 174.151035,
+            "latitude": -35.195696
+        },
+        "description": "The Bay of Islands is a New Zealand enclave encompassing more than 140 subtropical islands next to the country's North Island. It’s known for its undeveloped beaches, big-game fishing and Maori cultural artefacts. It's also home to the 19th-century whaling port of Russell, whose waterfront promenade is lined with remnants from its days as the country’s first colonial capital. ",
+        "imageName": "BayOfIslands"
+    },
+    {
+        "name": "Cape Reinga",
+        "category": "Lakes",
+        "city": "NorthLand",
+        "state": "New Zealand",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Cape Reinga NorthLand New Zealand",
+        "coordinates": {
+            "longitude": 172.797512,
+            "latitude": -34.504668
+        },
+        "description": "At the Cape, the Tasman Sea meets the Pacific Ocean in a spectacular swirl of currents. At the northernmost tip of the Cape is a gnarled pohutukawa tree, believed to be over 800 years old. According to Maori oral history, the spirits of deceased Maori leap from this tree into the ocean to return to their ancestral homeland of Hawaiki.While it’s not quite the most northern point of New Zealand (North Cape is further north, but it’s a scientific reserve and not open to the public), Cape Reinga is definitely the end of the road.",
+        "imageName": "CapeReinga"
+    },
+    {
+        "name": "Tapotupotu Beach",
+        "category": "Lakes",
+        "city": "NorthLand",
+        "state": "New Zealand",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "NorthLand New Zealand",
+        "coordinates": {
+            "longitude": 172.710204,
+            "latitude": -34.440724
+        },
+        "description": "Tapotupotu Bay is one of New Zealands northern most beaches, located just a few kilometres from Cape Reinga. Tapotupotu Bay has a Department of Conservation camping ground located at its eastern end along side the stream mouth and tidal inlet. Here you will also find the public amenities. If entering the water while at the beach you should stay clear of the headland rocks and also the stream mouth. There is no Lifeguarding Service and the area is hard to access",
+        "imageName": "TapotupotuBay"
+    },
+    {
+        "name": "Cathedral Cove",
+        "category": "Lake",
+        "city": "NorthLand",
+        "state": "New Zealand",
+        "id": 1007,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "NorthLand New Zealand",
+        "coordinates": {
+            "longitude": 175.789838,
+            "latitude": -36.827918
+        },
+        "description": "Te Whanganui-A-Hei (Cathedral Cove) Marine Reserve is in the southern part of Mercury Bay on the Coromandel Peninsula in New Zealand covering an area of 840 hectares. On the coast of the mainland, it stretches from Cook Bluff in the north-west to the northern end of Hahei Beach in the south-east.",
+        "imageName": "CathedralCove"
+    },
+    {
+        "name": "Rotorua",
+        "category": "Rivers",
+        "city": "Bay of Plenty",
+        "state": "New Zealand",
+        "id": 1008,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "NorthLand New Zealand",
+        "coordinates": {
+            "longitude": 176.255063,
+            "latitude": -38.134871
+        },
+        "description": "Rotorua, a town set on its namesake lake on New Zealand's North Island, is renowned for its geothermal activity and Maori culture. In Te Puia’s Whakarewarewa Valley, there are bubbling mud pools and the 30m-tall Pohutu Geyser, which erupts many times daily. It’s also home to a living Maori village and the New Zealand Maori Arts and Crafts Institute, with traditional wood carving and weaving schools.",
+        "imageName": "Rotorua"
+    },
+    {
+        "name": "Rotorua Lake",
+        "category": "Lake",
+        "city": "Rotorua",
+        "state": "New Zealand",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "NorthLand New Zealand",
+        "coordinates": {
+            "longitude": 176.255063,
+            "latitude": -38.134871
+        },
+        "description": "Lake Rotorua is the second largest lake in the North Island of New Zealand by surface area, and covers 79.8 km². With a mean depth of only 10 metres it is considerably smaller than nearby Lake Tarawera in terms of volume of water. It is located within the Rotorua Caldera in the Bay of Plenty Region.",
+        "imageName": "RotoruaLake"
+    },
+    {
+        "name": "Redwood TreeWalk",
+        "category": "Mountain",
+        "city": "Rotorua",
+        "state": "New Zealand",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "NorthLand New Zealand",
+        "coordinates": {
+            "longitude": 176.273081,
+            "latitude":-38.156790
+        },
+        "description": "Recreational walk featuring 28 suspension bridges through redwood trees that are over 120 years old.",
+        "imageName": "RedwoodForest"
+    },
+    {
+        "name": "Wellington",
+        "category": "City",
+        "city": "Wellington",
+        "state": "New Zealand",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "NorthLand New Zealand",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Wellington, the capital of New Zealand, sits near the North Island’s southernmost point on the Cook Strait. A compact city, it encompasses a waterfront promenade, sandy beaches, a working harbour and colourful timber houses on surrounding hills. From Lambton Quay, the iconic red Wellington Cable Car heads to the Wellington Botanic Gardens. Strong winds through the Cook Strait give it the nickname 'Windy Wellington'",
+        "imageName": "Wellington"
+    }
+]
